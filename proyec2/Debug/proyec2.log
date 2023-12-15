@@ -1,0 +1,24 @@
+﻿  CppCLR_WinformsProjekt.cpp
+  guardias.cpp
+  menuPrincipal.cpp
+  Generando código...
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+menuPrincipal.obj : error LNK2020: símbolo (token) sin resolver (06000002) proyec2.DataBase::.ctor
+CppCLR_WinformsProjekt.obj : error LNK2020: símbolo (token) sin resolver (06000002) proyec2.DataBase::.ctor
+menuPrincipal.obj : error LNK2020: símbolo (token) sin resolver (06000003) proyec2.DataBase::loguin
+CppCLR_WinformsProjekt.obj : error LNK2020: símbolo (token) sin resolver (06000003) proyec2.DataBase::loguin
+menuPrincipal.obj : error LNK2020: símbolo (token) sin resolver (06000004) proyec2.DataBase::nombre
+CppCLR_WinformsProjekt.obj : error LNK2020: símbolo (token) sin resolver (06000004) proyec2.DataBase::nombre
+menuPrincipal.obj : error LNK2020: símbolo (token) sin resolver (06000005) proyec2.DataBase::tomarSeccion
+CppCLR_WinformsProjekt.obj : error LNK2020: símbolo (token) sin resolver (06000005) proyec2.DataBase::tomarSeccion
+menuPrincipal.obj : error LNK2020: símbolo (token) sin resolver (06000006) proyec2.DataBase::abrirConection
+CppCLR_WinformsProjekt.obj : error LNK2020: símbolo (token) sin resolver (06000006) proyec2.DataBase::abrirConection
+menuPrincipal.obj : error LNK2020: símbolo (token) sin resolver (06000007) proyec2.DataBase::cerrarConection
+CppCLR_WinformsProjekt.obj : error LNK2020: símbolo (token) sin resolver (06000007) proyec2.DataBase::cerrarConection
+menuPrincipal.obj : error LNK2020: símbolo (token) sin resolver (06000008) proyec2.DataBase::guardiaSeccion
+CppCLR_WinformsProjekt.obj : error LNK2020: símbolo (token) sin resolver (06000008) proyec2.DataBase::guardiaSeccion
+menuPrincipal.obj : error LNK2020: símbolo (token) sin resolver (06000009) proyec2.DataBase::insertGuardia
+CppCLR_WinformsProjekt.obj : error LNK2020: símbolo (token) sin resolver (06000009) proyec2.DataBase::insertGuardia
+menuPrincipal.obj : error LNK2020: símbolo (token) sin resolver (0600000A) proyec2.DataBase::eliminarCarga
+CppCLR_WinformsProjekt.obj : error LNK2020: símbolo (token) sin resolver (0600000A) proyec2.DataBase::eliminarCarga
+C:\Users\prile\source\repos\proyec2\Debug\proyec2.exe : fatal error LNK1120: 18 externos sin resolver

@@ -1,0 +1,13 @@
+C:\Users\prile\source\repos\proyec2\Debug\proyec2.Form1.resources
+C:\Users\prile\source\repos\proyec2\Debug\proyec2.vcxproj.GenerateResource.cache
+C:\Users\prile\source\repos\proyec2\Debug\proyec2.exe
+C:\Users\prile\source\repos\proyec2\Debug\proyec2.vcxproj.AssemblyReference.cache
+C:\Users\prile\source\repos\proyec2\Debug\proyec2.menuPrincipal.resources
+C:\Users\prile\source\repos\proyec2\Debug\proyec2.cargarGuardia.resources
+C:\Users\prile\source\repos\proyec2\Debug\proyec2.guardias.resources
+C:\Users\prile\source\repos\proyec2\Debug\proyec2.servicios.resources
+C:\Users\prile\source\repos\proyec2\Debug\proyec2.vcxproj.CopyComplete
+C:\Users\prile\source\repos\proyec2\Debug\MySql.Data.dll
+C:\Users\prile\source\repos\proyec2\Debug\System.Memory.dll
+C:\Users\prile\source\repos\proyec2\Debug\System.Numerics.Vectors.dll
+C:\Users\prile\source\repos\proyec2\Debug\System.Buffers.dll
